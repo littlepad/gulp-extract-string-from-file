@@ -1,0 +1,23 @@
+{
+  "name": "gulp-extract-string-from-file",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/littlepad/gulp-extract-string-from-file.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/littlepad/gulp-extract-string-from-file/issues"
+  },
+  "homepage": "https://github.com/littlepad/gulp-extract-string-from-file#readme",
+  "devDependencies": {
+    "event-stream": "^3.3.4",
+    "gulp": "^3.9.1"
+  }
+}
